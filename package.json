@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "pagarme": "^4.32.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.5",
+    "@babel/core": "^7.22.5",
+    "@babel/node": "^7.22.5",
+    "@babel/preset-env": "^7.22.5"
+  }
+}
